@@ -1,0 +1,8 @@
+build/
+text-editor
+*.o
+*.d
+
+*.swp
+*~
+.DS_Store
